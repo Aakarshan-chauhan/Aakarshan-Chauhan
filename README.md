@@ -23,5 +23,5 @@
 
 <h3 align="center">
   <br>
-<a href="https://kaggle.com/watermasterz" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Kaggle#/media/File:Kaggle_logo.png" alt="watermasterz" height="30" width="30" /></a>
+<a href="https://kaggle.com/watermasterz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="watermasterz" height="30" width="30" /></a>
 </h3>
