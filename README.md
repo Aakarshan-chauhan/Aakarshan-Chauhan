@@ -21,8 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-bread&show_icons=true" alt="the-bread" /></p>
 
+
 <p align="center">
 <a href="https://kaggle.com/watermasterz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="watermasterz" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/watermasterz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="watermasterz" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/aakarshanc01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="watermasterz" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/watermasterz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="watermasterz" height="30" width="30" /></a>
 </p>
