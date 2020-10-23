@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aakarshan Chauhan</h1>
 <h3 align="center">Artificial Intelligence Student</h3>
 
-- 🔭 I’m currently working on [Passing Tensorflow Dev Certificate](https://github.com/The-Bread/Tensorflow-cert)
+- 🔭 I’m currently working on [Expanding my RL knowledge](https://github.com/The-Bread/reinforcement-learning)
 
-- 🌱 I’m currently learning **tf.Agents and React**
+- 🌱 I’m currently learning **Unity and Unity ML Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/The-Bread/](https://github.com/The-Bread/)
 
