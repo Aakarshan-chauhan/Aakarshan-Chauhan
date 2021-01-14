@@ -13,7 +13,9 @@
 
 - 💬 Looking for help in **Interactive Data Visualisation**
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+<img src="https://www.marinedatascience.co/img/software/logo_python.png" alt="python" width="40" height="40"/>
+<img src="https://www.clipartmax.com/png/small/200-2002716_software-development-clipart-practical-c-logo.png" alt="cplusplus" width="40" height="40"/> 
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-bread&layout=compact" alt="the-bread" /></p>
 <p align="center">
