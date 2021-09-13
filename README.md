@@ -6,6 +6,5 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/The-Bread/](https://github.com/The-Bread/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/aakarshan-chauhan-36a71616a/**
+- 📫 How to reach me **https://www.linkedin.com/in/aakarshan-chauhan/**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
