@@ -6,5 +6,5 @@
 - 
 - 👨‍💻 All of my projects are available at [https://github.com/Aakarshan-chauhan/](https://github.com/aakarshan-chauhan/)
 
-- 📫 Contact me :  [LinkedIn](https://www.linkedin.com/in/aakarshan-chauhan/) [Mail](mailto:aakarshanc01@gmail.com)
+- 📫 Contact me :  [LinkedIn](https://www.linkedin.com/in/aakarshan-chauhan/) ,  [Gmail](mailto:aakarshanc01@gmail.com)
 
